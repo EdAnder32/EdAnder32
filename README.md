@@ -1,0 +1,1 @@
+Neste repositório estarão armezenados meus arquivos de estudo para a preparação da piscina da 42 Luanda. O objectivo não é trapacear, muito menos copiar e colar. O objectivo se resume a aprender, aprender e aprender
