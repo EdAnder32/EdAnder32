@@ -28,4 +28,3 @@ wall "	#Architecture: $arc
 	#User log: $ulog
 	#Network: IP $ip ($mac)
 	#Sudo: $cmds cmd"
-https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.6.0-amd64-netinst.iso
