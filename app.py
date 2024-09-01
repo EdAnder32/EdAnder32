@@ -45,9 +45,23 @@ def register_user():
     with open(TOTAL_FILE, 'w') as f:
         f.write(str(total_users))
 
-    send_email('User Registration', f'New user registered: {username}\nTotal users: {total_users}')
-    
     return jsonify({'message': 'User registered successfully'}), 200
+
+@app.route('/send', methods=['POST'])
+def send_update_email():
+    if not os.path.exists(USERS_FILE):
+        return jsonify({'error': 'No user data found'}), 400
+
+    with open(USERS_FILE, 'r') as f:
+        users = list(set(f.read().splitlines()))  # Remove duplicates
+
+    total_users = len(users)
+    subject = 'User Registration Report'
+    body = f'Total users: {total_users}\nUsers:\n' + '\n'.join(users)
+    
+    send_email(subject, body)
+    
+    return jsonify({'message': 'Email sent successfully'}), 200
 
 @app.route('/stats', methods=['GET'])
 def get_stats():
