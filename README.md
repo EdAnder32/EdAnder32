@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Edmilson Alexandre]
+# 👋 Hi there! I'm Edmilson Alexandre
 
 **Welcome to my GitHub profile!**  
 I'm a passionate developer from Angola, currently studying at 42 Luanda. I love working on challenging projects, especially those involving C, Python, Shell and 2D game development. Always eager to learn new technologies and apply them to real-world projects.
