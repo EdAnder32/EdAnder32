@@ -39,6 +39,6 @@ I'm a passionate developer from Angola, currently studying at 42 Luanda. I love 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Edmilson Alexandre](www.linkedin.com/in/edmilson-alexandre-b46a99264)
-- Email: [Edmilson Alexandre](mailto:edalexx00@gmail.com)
+- LinkedIn: [www.linkedin.com/in/edmilson-alexandre-b46a99264]
+- Email: [edalexx00@gmail.com]
 
