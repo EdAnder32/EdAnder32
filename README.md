@@ -20,22 +20,10 @@ I'm a passionate developer from Angola, currently studying at 42 Luanda. I love 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Skill Progress
-
-- **C**  
-  ![C](https://progress-bar.dev/85?title=Proficient)
-- **Python**  
-  ![Python](https://progress-bar.dev/65?title=Intermediate)
-- **Shell Script**  
-  ![Shell Script](https://progress-bar.dev/60?title=Intermediate)
-- **HTML/CSS**  
-  ![HTML/CSS](https://progress-bar.dev/55?title=Intermediate)
 
 ## 🧑‍💻 Recent Projects
 
-- [push_swap](#)
-- [so_long](#)
-- [printf Implementation](#)
+- [Master Key](github.com/edander32/master-key)
 
 ## 📫 How to Reach Me
 
