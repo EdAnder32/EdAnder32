@@ -5,11 +5,11 @@ I'm a passionate developer from Angola, currently studying at 42 Luanda. I love 
 
 ## About Me
 
-- 🌍 From: Angola
-- 🎓 Student at [42 Luanda](https://42.fr/)
-- 💻 Currently working on: 42 Core Curriculum
-- 🔥 Passionate about: C, AI, CyberSecurity and 2D game development
-- 🌱 Always learning something new in computer science
+-  From: Angola
+-  Student at [42 Luanda](https://42.fr/)
+-  Currently working on: 42 Core Curriculum
+-  Passionate about: C, AI, CyberSecurity and 2D game development
+-  Always learning something new in computer science
 
 ## My Skills
 
