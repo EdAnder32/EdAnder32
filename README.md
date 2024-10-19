@@ -20,7 +20,8 @@ I'm a passionate developer from Angola, currently studying at 42 Luanda. I love 
 
 ## Recent Projects
 
-- [Master Key](https://www.github.com/edander32/master-key)
+- [Master Key(A powefull tool for  42 Luanda Students)](https://www.github.com/edander32/master-key)
+- [So Long (A Small 2D game)](https://www.github.com/edander32/so-long)
 
 ## How to Reach Me
 
